@@ -3,10 +3,10 @@
 #### **Contributeurs :**
 Ce projet a été réalisé sous la collaboration de :
   
-  * [Ayoub HMADOUCH ](https://github.com/SaraDjaoud)
-  * [Abdessamad EL HAFI](https://github.com/Ikram23Mi)
-  * [FOUAD EL FAKHORI](https://github.com/manelhaddad)
-  * [Abderahmane KOTBI](https://github.com/naimakhelassi)
+  * [Sara Djaoud ](https://github.com/SaraDjaoud)
+  * [Ikram FERAI](https://github.com/Ikram23Mi)
+  * [Manel HADDAD](https://github.com/manelhaddad)
+  * [Naima KHELASSI](https://github.com/naimakhelassi)
 
 ---
 ### **Objectif du projet:**
