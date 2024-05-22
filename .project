@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CabinetMedicalUI</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/login.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Pictures/login.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/logoMed.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Pictures/logoMed.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/menu1.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Documents/menu1.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/purple.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Pictures/purple.png</locationURI>
+		</link>
+		<link>
+			<name>src/main/testt1.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Documents/testt1.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

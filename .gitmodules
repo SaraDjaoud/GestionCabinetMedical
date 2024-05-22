@@ -1,0 +1,3 @@
+[submodule "GestionCabinetMedical"]
+	path = GestionCabinetMedical
+	url = https://github.com/SaraDjaoud/GestionCabinetMedical.git
